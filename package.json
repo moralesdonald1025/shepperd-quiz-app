@@ -1,10 +1,13 @@
 {
+  "homepage": "https://moralesdonald1025.io/shepperd-quiz-app/",
   "name": "support-shepperd-quiz-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
