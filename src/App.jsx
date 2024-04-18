@@ -8,7 +8,7 @@ import Question_4 from "./zeniark_quiz_app/components/quiz/question_4";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/shepperd-quiz-app">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/quiz_1" element={<Question_1 />} />
