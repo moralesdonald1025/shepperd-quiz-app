@@ -6,6 +6,9 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
 
+
+    //added comments
+
     return (
         <div className="container">
             <h2 className="welcome_title">Welcome to the Support Shepperd</h2>
