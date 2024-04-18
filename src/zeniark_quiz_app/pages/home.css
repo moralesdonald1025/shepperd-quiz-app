@@ -1,0 +1,100 @@
+.container .welcome_title {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 52.5px;
+    letter-spacing: 0.005em;
+    text-align: center;
+}
+
+.container .presented {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0.005em;
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 27px;
+    font-weight: 500;
+}
+
+.container .canYouScore {
+    width: 523px;
+    height: 83px;
+    top: 554px;
+    left: 459px;
+    gap: 0px;
+    border-radius: 15px;
+    opacity: 0px;
+    background: #085696;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    /* Horizontal centering */
+    align-items: center;
+    /* Vertical centering */
+}
+
+.container .canYouScore p {
+    font-family: Poppins;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 52.5px;
+    letter-spacing: -0.04em;
+    text-align: center;
+    width: 495px;
+    height: 62px;
+    top: 566px;
+    left: 473px;
+    gap: 0px;
+    opacity: 0px;
+    color: #FFFFFF;
+}
+
+.container .letsStart {
+    background-color: #FFFFFF;
+    border: none;
+
+    .textStart {
+        color: #085696;
+        font-family: Poppins;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 52.5px;
+        letter-spacing: -0.04em;
+        text-align: center;
+        width: 201px;
+        height: 53px;
+        top: 702px;
+        left: 620px;
+        gap: 0px;
+        opacity: 0px;
+    }
+}
+
+.container .next_question {
+    background-color: #FFFFFF;
+    border: none;
+
+    .next_question_text {
+        color: #085696;
+        font-family: Poppins;
+        font-size: 35px;
+        font-weight: 600;
+        line-height: 52.5px;
+        letter-spacing: -0.04em;
+        text-align: center;
+        width: 201px;
+        height: 53px;
+        top: 702px;
+        left: 620px;
+        gap: 0px;
+        opacity: 0px;
+    }
+}
