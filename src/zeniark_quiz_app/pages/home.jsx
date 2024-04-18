@@ -17,7 +17,6 @@ const Home = () => {
                 <Link to="/quiz_1" className="textStart">LET’S START!</Link>
             </button>
         </div>
-
     )
 }
 
